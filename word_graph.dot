@@ -1,0 +1,23 @@
+digraph WordGraph {
+  "new"
+  "new" -> "worlds" [label="1"]
+  "new" -> "civilizations" [label="1"]
+  "new" -> "life" [label="1"]
+  "worlds"
+  "worlds" -> "to" [label="1"]
+  "explore"
+  "explore" -> "strange" [label="1"]
+  "and"
+  "and" -> "new" [label="1"]
+  "to"
+  "to" -> "explore" [label="1"]
+  "to" -> "seek" [label="1"]
+  "seek"
+  "seek" -> "out" [label="1"]
+  "strange"
+  "strange" -> "new" [label="1"]
+  "life"
+  "life" -> "and" [label="1"]
+  "out"
+  "out" -> "new" [label="1"]
+}
