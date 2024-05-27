@@ -379,7 +379,11 @@ public class MyGraph extends JFrame {
                     break;
             }
         }
-        System.out.print("B1");
+<<<<<<< HEAD
+        System.out.print("");
+=======
+       System.out.print("");
+>>>>>>> C4
         scanner.close();
       
     }
