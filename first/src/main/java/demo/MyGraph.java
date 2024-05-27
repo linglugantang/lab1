@@ -379,8 +379,9 @@ public class MyGraph extends JFrame {
                     break;
             }
         }
-
+        System.out.print("B1");
         scanner.close();
+      
     }
 }
 
